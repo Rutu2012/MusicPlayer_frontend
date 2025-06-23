@@ -6,7 +6,7 @@ const SongPLayer = () => {
   const songs = [
     { title: 'Butterfly', url: 'http://localhost:9000/song/a.mp3' },
     { title: 'Let Me Love You', url: 'http://localhost:9000/song/b.mp3' },
-    { title: 'Shape Of You', url: 'http://localhost:9000/song/c.mp3' },
+    { title: 'Shape Of You', url: 'https://musicplayer-backend-z7a0.onrender.com' },
     { title: 'Love Me Like You', url: 'http://localhost:9000/song/d.mp3' },
     { title: 'Kol Mere', url: 'http://localhost:9000/song/e.mp3' },
   ];
